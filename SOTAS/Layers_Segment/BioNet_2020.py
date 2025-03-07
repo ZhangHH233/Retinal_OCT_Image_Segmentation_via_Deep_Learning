@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torchvision.models as models
 
-@ARTICLE{Zhang2020AutoSeg,
+"""@ARTICLE{Zhang2020AutoSeg,
 
   author={Zhang, Huihong and Yang, Jianlong and Zhou, Kang and Li, Fei and Hu, Yan and Zhao, Yitian and Zheng, Ce and Zhang, Xiulan and Liu, Jiang},
 
@@ -19,6 +19,7 @@ import torchvision.models as models
   pages={3408-3420},
 
   doi={10.1109/JBHI.2020.3023144}}
+  """
 
 class UNet(nn.Module):
     def __init__(self, in_channels, out_channels):
