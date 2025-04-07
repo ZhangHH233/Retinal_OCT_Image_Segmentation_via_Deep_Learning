@@ -6,6 +6,8 @@ This project offers comprehensive resources for retinal OCT image segmentation u
 
 论文/Paper：Retinal OCT image segmentation with deep learning: A review of advances, datasets, and evaluation metrics
 
+url: https://www.sciencedirect.com/science/article/abs/pii/S0895611125000485
+
 引用/cite：
 
 @article{ZHANG2025102539,
