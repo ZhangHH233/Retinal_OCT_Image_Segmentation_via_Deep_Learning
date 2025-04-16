@@ -16,5 +16,5 @@ year = {2025},
 issn = {0895-6111},
 doi = {https://doi.org/10.1016/j.compmedimag.2025.102539},
 url = {https://www.sciencedirect.com/science/article/pii/S0895611125000485},
-author = {Huihong Zhang and Bing Yang and Sanqian Li and Xiaoqing Zhang and Xiaoling Li and Tianhang Liu and Risa Higashita and Jiang Liu},
+author = {Huihong Zhang and Bing Yang and Sanqian Li and Xiaoqing Zhang and Xiaoling Li and Tianhang Liu and Risa Higashita and Jiang Liu}
 }
