@@ -5,16 +5,14 @@
 
 This project offers comprehensive resources for retinal OCT image segmentation using deep learning. It includes (1) official implementations of state-of-the-art (SOTA) methods or their reproductions; (2) code for evaluation metrics; (3) Public dataset information and download links. The project will be continuously updated and standardized.
 
-引用/cite: 
 
-@article{ZHANG2025102539,
-title = {Retinal OCT image segmentation with deep learning: A review of advances, datasets, and evaluation metrics},
-journal = {Computerized Medical Imaging and Graphics},
-volume = {123},
-pages = {102539},
-year = {2025},
-issn = {0895-6111},
-doi = {https://doi.org/10.1016/j.compmedimag.2025.102539},
-url = {https://www.sciencedirect.com/science/article/pii/S0895611125000485},
-author = {Huihong Zhang and Bing Yang and Sanqian Li and Xiaoqing Zhang and Xiaoling Li and Tianhang Liu and Risa Higashita and Jiang Liu}
-}
+欢迎引用综述论文：
+```bibtex
+@article{zhang2025retinal,
+  title={Retinal OCT image segmentation with deep learning: A review of advances, datasets, and evaluation metrics},
+  author={Zhang, Huihong and Yang, Bing and Li, Sanqian and Zhang, Xiaoqing and Li, Xiaoling and Liu, Tianhang and Higashita, Risa and Liu, Jiang},
+  journal={Computerized Medical Imaging and Graphics},
+  pages={102539},
+  year={2025},
+  publisher={Elsevier}
+} ```
